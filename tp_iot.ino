@@ -50,7 +50,6 @@ void setup() {
 }
 
 void loop() {
-  //observeFirebaseChanges();
   observeSensor();
   observeBtnClasse();
 }
